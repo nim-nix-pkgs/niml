@@ -11,6 +11,7 @@
   inputs.src-niml-0_1_4.ref   = "refs/tags/0.1.4";
   inputs.src-niml-0_1_4.owner = "jakubDoka";
   inputs.src-niml-0_1_4.repo  = "niml";
+  inputs.src-niml-0_1_4.dir   = "";
   inputs.src-niml-0_1_4.type  = "github";
   
   inputs."fusion".owner = "nim-nix-pkgs";
