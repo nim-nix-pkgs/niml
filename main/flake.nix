@@ -11,7 +11,6 @@
   inputs.src-niml-main.ref   = "refs/heads/main";
   inputs.src-niml-main.owner = "jakubDoka";
   inputs.src-niml-main.repo  = "niml";
-  inputs.src-niml-main.dir   = "";
   inputs.src-niml-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
